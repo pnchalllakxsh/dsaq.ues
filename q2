@@ -1,4 +1,4 @@
-//largest elemnt in an array 
+//largest element in an array
 #include <bits/stdc++.h> 
 int largestElement(vector<int> &arr, int n) {
     int max = INT_MIN;
